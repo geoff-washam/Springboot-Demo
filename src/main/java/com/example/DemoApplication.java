@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     // Adding a stupid comment... this is main!
+    // yada yada
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
